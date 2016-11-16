@@ -13,7 +13,7 @@ function signin()
     }
     else if(usern=="C" && pswd=="gh")
     {
-    	window.open("newpage.html","_self");
+    	window.open("nursedata.html","_self");
     }
     else if(usern=="" || pswd=="")
     {
